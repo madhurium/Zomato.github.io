@@ -1,0 +1,305 @@
+.breakfast {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.recipe1 {
+    display: flex;
+    flex-direction: row;
+}
+.item7 {
+    border: 1px solid #dadada;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.item7 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.item7 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+    left: 100px;
+    cursor: pointer;
+
+}
+
+.item7 .container {
+    position: relative;
+    top: 10px;
+    left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.item7 .rupee h3 {
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+    left: 150px;
+}
+
+.item8 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 180px;
+}
+
+.item8 .container {
+    position: relative;
+    top: 10px;
+    left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item8 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item8 button {
+   border-radius: 8px;
+   background-color: #FFB534;
+   width: 40%;
+   height: 30px;
+   border: 2px ridge #FFB534;
+   position: relative;
+   right: 50px;
+   bottom: 20px;
+   left: 100px;
+   cursor: pointer;
+
+}
+
+.item8 .rupee h3 {
+    position: relative;
+    bottom: 15px;
+    left: 150px;
+}
+
+.item9 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 320px;
+}
+
+.item9 .container {
+    position: relative;
+    top: 10px;
+    left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item9 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item9 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item9 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+.recipe2 {
+    display: flex;
+    flex-direction: row;
+}
+.item10 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+}
+
+.item10 .container {
+    position: relative;
+    top: 10px;
+    left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item10 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item10 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item10 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+
+.item11 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 230px;
+    top: 50px;
+
+}
+
+.item11 .container {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item11 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item11 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item11 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+
+.item12 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 370px;
+    top: 50px;
+
+}
+
+.item12 .container {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item12 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item12 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item12 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}

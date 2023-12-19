@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient( 109.6deg,  rgba(253,199,141,1) 11.3%, rgba(249,143,253,1) 100.2% );
+}
+
+.wrapper{
+
+    margin-left: 550px;
+    margin-top: 90px;
+    background-image: linear-gradient( 109.6deg,  rgba(253,199,141,1) 11.3%, rgba(249,143,253,1) 100.2% );
+    width: 400px;
+    height: 310px;
+    border: 5px ridge transparent;
+    
+ }
+ .wrapper h1{
+   text-align: center;
+ }
+ .contents{
+    text-align: center;
+ }
+ 
+ 
+.member{
+    text-align: center;
+    
+}
+.member a:hover{
+    color: blue;
+    
+}
+.member a{
+    text-decoration: none;
+}

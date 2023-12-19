@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delivery Details</title>
+    <link rel="icon" href="zomatologo.jpg">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+    <style>
+        body {
+            background-image: linear-gradient(109.6deg, rgba(253, 199, 141, 1) 11.3%, rgba(249, 143, 253, 1) 100.2%);
+        }
+
+        .form {
+            border: 1px solid transparent;
+            box-shadow: 0px 0px 15px #ED5AB3;
+            margin-top: 30px;
+
+            text-align: center;
+            width: 600px;
+            height: 600px;
+            margin-left: 450px;
+            padding-bottom: 80px;
+        }
+
+        .form input[type=text] {
+            border-radius: 8px;
+            height: 25px;
+        }
+
+        .form input[type=email] {
+            border-radius: 8px;
+            height: 25px;
+        }
+
+        .form a {
+            padding-top: 10px;
+            text-decoration: none;
+            color: white;
+            border: 1px solid red;
+            width: 50px;
+            height: 20px;
+            border-radius: 8px;
+            padding-bottom: 10px;
+            background-color: red;
+
+        }
+    </style>
+</head>
+
+<body>
+    
+
+    <div class="form">
+        <form action="form">
+            <h1>Delivery Details</h1>
+            <label for="name"></label>
+            <input type="text" id="name" placeholder="Full Name" required><br><br><br>
+            <label for="address"></label>
+            <input type="text" id="address" placeholder="Address" required><br><br><br>
+            <label for="address1"></label>
+            <input type="text" id="address1" placeholder="Street Address"><br><br><br>
+            <label for="address2"></label>
+            <input type="text" id="address2" placeholder="Street Address Line 2"><br><br><br>
+            <label for="city"></label>
+            <input type="text" id="city" placeholder="city" required><br><br><br>
+            <label for="state"></label>
+            <input type="text" id="state" placeholder="State" required><br><br><br>
+            <label for="phone"></label>
+            <input type="text" id="phone" placeholder="Phone Number" required><br><br><br>
+            <label for="email"></label>
+            <input type="email" id="email" placeholder="Email" required><br><br><br>
+            <a href="payment.html">Place Order</a>
+
+
+    </div>
+
+
+    </form>
+</body>
+
+</html>

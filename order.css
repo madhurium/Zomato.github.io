@@ -1,0 +1,84 @@
+.bg-image{
+    background-image: linear-gradient( 109.6deg,  rgba(253,199,141,1) 11.3%, rgba(249,143,253,1) 100.2% );
+    background-repeat: no-repeat;
+    width: 100%;
+   height: 720px;
+   
+}
+.head{
+    position: absolute;
+    bottom: 550px;
+    left: 640px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head1{
+   border: 1px solid transparent;
+   box-shadow: 0px 0px 15px #ED5AB3;
+   width: 500px;
+   height: 400px;
+   position: relative;
+   bottom: 530px;
+   left: 500px;
+
+}
+.head1 p{
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font: bolder;
+}
+.form a{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+    padding-left: 15px;
+    color: black;
+    
+    text-decoration: none;
+}
+.form a:hover{
+  color: blue;
+  border-bottom:1px solid blue;
+}
+.text label{
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.text input[type=text]{
+    position: relative;
+    top: 30px;
+    left: 40px;
+    width: 70%;
+    height: 30px;
+
+}
+.text1 label{
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.text1 input[type=text]{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    width: 70%;
+    height: 30px;
+
+}
+.button{
+   
+    position: relative;
+    top: 90px;
+    left: 110px;
+    border: 2px ridge red;
+    width: 250px;
+    height: 30px;
+    padding-top: 8px;
+    padding-left: 20px;
+    border-radius: 8px;
+ 
+}

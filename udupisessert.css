@@ -1,0 +1,307 @@
+.breakfast {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.recipe1 {
+    display: flex;
+    flex-direction: row;
+}
+.item25 {
+    border: 1px solid #dadada;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.item25 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.item25 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+    left: 100px;
+    cursor: pointer;
+
+}
+
+.item25 .container {
+    position: relative;
+    top: 10px;
+    left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.item25 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    left: 150px;
+}
+
+.item26 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 180px;
+}
+
+.item26 .container {
+    position: relative;
+    top: 10px;
+    left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item26 img {
+    width: 300px;
+    height: 180px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item26 button {
+   border-radius: 8px;
+   background-color: #FFB534;
+   width: 40%;
+   height: 30px;
+   border: 2px ridge #FFB534;
+   position: relative;
+   right: 50px;
+   bottom: 20px;
+   left: 100px;
+   cursor: pointer;
+
+}
+
+.item26 .rupee h3 {
+    position: relative;
+    bottom: 15px;
+    left: 150px;
+}
+
+.item27 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 320px;
+}
+
+.item27 .container {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item27 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item27 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item27 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+.recipe2 {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.item28 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+}
+
+.item28 .container {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item28 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item28 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item28 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+
+.item29 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 230px;
+    top: 50px;
+
+}
+
+.item29 .container {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item29 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item29 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item29 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+
+.item30 {
+    border: 1px solid #dadada;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.2;
+    width: 23%;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 370px;
+    top: 50px;
+
+}
+
+.item30 .container {
+    position: relative;
+    top: 10px;
+    left: 125px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.item30 img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.item30 button {
+    border-radius: 8px;
+    background-color: #FFB534;
+    width: 40%;
+    height: 30px;
+    border: 2px ridge #FFB534;
+    position: relative;
+    right: 50px;
+    bottom: 29px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.item30 .rupee h3 {
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
